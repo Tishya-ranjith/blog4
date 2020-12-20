@@ -1,0 +1,67 @@
+h1          {
+   
+    color:cornflowerblue;
+    text-align: center;
+    
+}
+#school name{
+background-color:azure;
+}
+.line       {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+}
+#map        {
+ margin-left: 20px;   
+  width:1000px;  
+  margin-right: 40px;  
+}
+#welcome    {
+    position: absolute;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.profile    {
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+        margin-top: 150px;
+    margin-left: 450px;
+}
+#video      {
+ width: 1000px ;  
+  height: 400px; 
+    margin-left: 40px;
+}
+h2          {
+ color: black;
+text-align: center;
+}
+h4          {
+ color: black;
+text-align: center;
+}
+h3          {
+ color: black;
+text-align: center;
+}
+img         {
+    width:400px;
+    height: 400px;
+}
+#slo        {
+    margin-top: 300px;
+}
